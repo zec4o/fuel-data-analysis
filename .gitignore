@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# outputs
+.output/br_fuel_excel.xlsx
+
 # C extensions
 *.so
 
